@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <p>sdsd</p>
+       <p>New update3 React app</p>
         <a
           className="App-link"
           href="https://reactjs.org"
